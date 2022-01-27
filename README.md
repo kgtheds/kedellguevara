@@ -2,4 +2,4 @@
 
 ### Data Science Undergraduate
 
-![ME](/kgtheds/kedellguevara/kedellphoto1.jpg "Kedell Guevara)
+![ME](kedellphoto1.jpg)
