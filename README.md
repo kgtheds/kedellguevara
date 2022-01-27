@@ -2,4 +2,4 @@
 
 ### Data Science Undergraduate
 
-![Here I am!](/kgtheds/kedellguevara/kedellphoto1.jpg)
+![ME](/kgtheds/kedellguevara/kedellphoto1.jpg)
